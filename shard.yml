@@ -1,0 +1,9 @@
+name: docker
+version: 0.0.1
+
+authors:
+  - Rogério Zambon <rogeriozambon@gmail.com>
+
+crystal: 0.25.1
+
+license: MIT
